@@ -1,0 +1,114 @@
+[
+    {
+        "id":1,
+        "name":"Mystic Meadows",
+        "title":"A hidden valley where talking animals and magic await explorers.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/education-day-scene-fantasy-style-aesthetic_23-2151040270.jpg?t=st=1724657637~exp=1724661237~hmac=8967642f169265b2193704259750a0f3c7bbb427af82c1bed3ac0422b8eff961&w=740"
+    },
+    {
+        "id":2,
+        "name":"Wings of Destiny",
+        "title":"An aspiring pilot discovers a hidden power that changes history forever.",
+        "price":0,
+        "category":"Adventure",
+        "image":"https://img.freepik.com/premium-photo/free-photo-happy-world-post-day-celebration_1134551-122351.jpg?w=740"
+    },
+    {
+        "id":3,
+        "name":"The Forgotten Garden",
+        "title":"A hidden garden holds the key to a family's lost history and magic.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/boy-fantasy-world_23-2151732250.jpg?t=st=1724658322~exp=1724661922~hmac=367b51c4a401cd2243d1f35025aa9822cfe5eb835c05141ad22a0e10ab4bc448&w=996"
+    },
+    {
+        "id":4,
+        "name":"Rhythm of the Heart",
+        "title":"A gifted musician discovers a melody that unlocks hidden emotions.",
+        "price":450,
+        "category":"Music",
+        "image":"https://img.freepik.com/premium-photo/sundappled-park-serene-afternoon-cellist-gently-coaxes-melodies-from-their-instrument_1176614-37638.jpg?w=740"
+    },
+    {
+        "id":5,
+        "name":"The People's President",
+        "title":"A Deep Dive into the Life and Legacy of Dr. Kalam.",
+        "price":560,
+        "category":"Biopic",
+        "image":"https://www.mapsofindia.com/ci-moi-images/my-india/2018/07/APJ-Abdul-Kalam-The-Peoples-President-.jpg"
+    },
+    {
+        "id":6,
+        "name":"Game Changers",
+        "title":"Athletes who revolutionized their sports and left an enduring legacy.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/portrait-person-practicing-sport_23-2151059725.jpg?t=st=1724657592~exp=1724661192~hmac=b9b8b90920549fa7cf686a1dd9d6d281f978aaed58ea114b95413f1bcceefb42&w=1380"
+    },
+    {
+        "id":7,
+        "name":"In My Own Words",
+        "title":"A heartfelt autobiography capturing the essence of my personal journey.",
+        "price":300,
+        "category":"Autobiography",
+        "image":"https://img.freepik.com/free-photo/digital-art-with-man-planet-earth_23-2151064556.jpg?t=st=1724666112~exp=1724669712~hmac=9bfec6612a406e282180cee291c958c21a9304c2fcd60604ca98da2ef86c453c&w=740"
+    },
+    {
+        "id":8,
+        "name":"Laugh Lines",
+        "title":"Hilarious misadventures and everyday follies that will keep you chuckling.",
+        "price":650,
+        "category":"Comedy",
+        "image":"https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale,dpr_1.5/jackets/9781350186873.jpg"
+    },
+    {
+        "id":9,
+        "name":"A Flight of Dreams",
+        "title":"Dr. Kalam's Inspirational Journey from Scientist to India's Beloved Leader.",
+        "price":485,
+        "category":"Biopic",
+        "image":"https://img.freepik.com/free-photo/3d-icon-travel-with-airplane_23-2151037412.jpg?t=st=1724665861~exp=1724669461~hmac=6a5bad6daf5e05eb7d181bff9ff0bbc5979010cad26ebd5f52451bdefff02725&w=740"
+    },
+    {
+        "id":10,
+        "name":"The Forbidden Jungle",
+        "title":"Adventurers brave the dangers of a jungle to find hidden treasure.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/full-shot-boy-exploring-nature_926199-4183643.jpg?w=360"
+    },
+    {
+        "id":11,
+        "name":"Moonlight Quest",
+        "title":"A brave girl discovers a magical world under the moonlight.",
+        "price":700,
+        "category":"Adventure",
+        "image":"https://img.freepik.com/free-photo/rendering-cartoon-fantasy-scene-illustration_23-2151150820.jpg?t=st=1724658564~exp=1724662164~hmac=33ccf9c71badcc28496665d20d2494339509ac162077e031de708a94386ee9e3&w=996"
+    },
+    {
+        "id":12,
+        "name":"The Cursed Manor",
+        "title":"A family’s new home hides a malevolent curse from history.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/haunted-house-gothic-style_23-2151626735.jpg?t=st=1724658583~exp=1724662183~hmac=39489ce07b8b7dbc2abfd95add991fa69fd8e8af631102b1974a8d4e9dc6a114&w=360"
+    },
+    {
+        "id":13,
+        "name":"Through My Eyes",
+        "title":"A journey through my experiences, struggles, and personal transformations.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/money-fantasy-scene_23-2151663105.jpg?t=st=1724658614~exp=1724662214~hmac=eabb30ca4bc6a2de82bd115fe7480341c25a4215d67c5a6442342a8ab91040ba&w=1380"
+    },
+    {
+        "id":14,
+        "name":"The Accidental Comedian",
+        "title":"A self-deprecating look at how a regular person became a comedy star.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/world-theatre-day_605905-11974.jpg?w=1380"
+    }
+]
