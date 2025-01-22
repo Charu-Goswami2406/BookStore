@@ -1,0 +1,1 @@
+Bookiverse is a web-based bookstore platform developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). The platform allows users to explore, search, and read books with ease. It provides real-time updates, customer feedback integration, and an intuitive admin panel for seamless management of books and orders.
